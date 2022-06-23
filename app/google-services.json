@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747599586664",
+    "project_id": "notesapp-b3654",
+    "storage_bucket": "notesapp-b3654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747599586664:android:1fe741ba109b44272ce2dd",
+        "android_client_info": {
+          "package_name": "com.example.MakeNote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747599586664-cqr3ml560gis2l8ctj3th27fj91g2o0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1quKx1p08wvGCOeeQMPZWWwO_GAw31k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747599586664-cqr3ml560gis2l8ctj3th27fj91g2o0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
